@@ -1,4 +1,4 @@
-baseURL = "https://miguelablp.github.io/"
+baseURL = "https://miguelablp.github.io/galeria/"
 languageCode = "pt-br"
 title = "Meu Portfólio"
 theme = "gallery"
