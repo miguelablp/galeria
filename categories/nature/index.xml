@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nature on Meu Portfólio</title>
+    <link>http://localhost:1313/categories/nature/</link>
+    <description>Recent content in Nature on Meu Portfólio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/nature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cats</title>
+      <link>http://localhost:1313/gallery/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/</guid>
+        <media:content url="http://localhost:1313/gallery/IMG_2179_hu_14d2b4ce78404fc3.webp" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/IMG_2179_hu_14d2b4ce78404fc3.webp&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
